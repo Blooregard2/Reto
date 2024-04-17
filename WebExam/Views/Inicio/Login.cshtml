@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/WebExam.js"></script>
+    <div class="container mt-5 pt-5">
+
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-4 col-md-6">
+
+                <div class="card">
+                    <form>
+                        <div class="mb-3">
+                            <label for="txtUsuario" class="form-label">Usuario</label>
+                            <input type="text" class="form-control" id="txtUsuario" aria-describedby="txtHelp">
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtPass" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="txtPass">
+                        </div>                       
+                        <button id= "btnEnviar" type="submit" class="-llamar-servicio btn btn-primary">Ingresar</button>
+                    </form>
+    </div>
+    </div>
+    </div>
+    </div>
+
+   <script>
+        $(document).ready(function () {
+            $('#btnEnviar').click(function () {
+                var username = $('#txtUsuario').val();
+                var password = $('#txtPass').val();
+                $.ajax({
+                    url: 'http://localhost:5280/api/Usuarios/Login',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    async: false,
+                    data: JSON.stringify({ email: username, pass: password }),
+                    success: function (response) {
+
+                        window.location.href = "Inicio/Usuarios.html";
+                    },
+                    error: function (xhr, status, error) {
+
+                        window.location.href = "Inicio/Usuarios.html";
+
+                    },
+                    async: false 
+                });
+            });
+        });
+    </script>
+
+
+</body>
+</html>

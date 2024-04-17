@@ -1,0 +1,11 @@
+D:\ExamenPractico\Exmane.Infraestructura\bin\Debug\net8.0\Exmane.Infraestructura.deps.json
+D:\ExamenPractico\Exmane.Infraestructura\bin\Debug\net8.0\Exmane.Infraestructura.dll
+D:\ExamenPractico\Exmane.Infraestructura\bin\Debug\net8.0\Exmane.Infraestructura.pdb
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.AssemblyInfoInputs.cache
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.AssemblyInfo.cs
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.csproj.CoreCompileInputs.cache
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.dll
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\refint\Exmane.Infraestructura.dll
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\Exmane.Infraestructura.pdb
+D:\ExamenPractico\Exmane.Infraestructura\obj\Debug\net8.0\ref\Exmane.Infraestructura.dll

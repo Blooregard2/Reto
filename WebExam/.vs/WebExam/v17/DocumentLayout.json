@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi\\WebExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\inicio\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\inicio\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\inicio\\medicina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\inicio\\medicina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|d:\\webapi\\webexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899E64A0-5FD2-4920-89DE-841021C9245C}|WebExam.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medicina.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\Inicio\\Medicina.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inicio\\Medicina.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\Inicio\\Medicina.cshtml",
+              "RelativeToolTip": "Views\\Inicio\\Medicina.cshtml",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAowOsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:46:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\Inicio\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inicio\\Login.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\Inicio\\Login.cshtml",
+              "RelativeToolTip": "Views\\Inicio\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:05:43.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\WebApi\\WebExam\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T20:05:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:05:11.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:05:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WebApi\\WebExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:02:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
+              "ToolTip": "D:\\WebApi\\WebExam\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:03:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:37:34.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "D:\\WebApi\\WebExam\\Views\\Inicio\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inicio\\Usuarios.cshtml",
+              "ToolTip": "D:\\WebApi\\WebExam\\Views\\Inicio\\Usuarios.cshtml",
+              "RelativeToolTip": "Views\\Inicio\\Usuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T20:47:07.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
